@@ -3,7 +3,7 @@ str2=str("jega")
 print(id(str1))
 print(id(str2))
 
-str5 = "jegathees"
+str5 = "jegatheeswaran sudaravadivel"
 print(str5[0:2])
 
 for i in str5:
